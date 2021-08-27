@@ -9,6 +9,29 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    {
+        "id": 1,
+        "name": "Nguyễn Văn Sơn",
+        "group": {
+            "position": "Thành viên",
+            "groupId": "1"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Hữu Ánh",
+        "group": {
+            "position": "Thành viên",
+            "groupId": "1"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Trần Mạnh Quân",
+        "group": {
+            "position": "Trưởng nhóm",
+            "groupId": "4"
+        }
+    }
   }
 }
